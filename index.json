@@ -1,0 +1,11 @@
+{
+  "org": "bentoml",
+  "repo": "XGBoostDemo",
+  "versions": [
+    {
+      "commit": "27bf18a2229783c828701da9a68fac44492491d3",
+      "tag": "",
+      "parsed_at": "2026-11-08T03:28:20.035863+00:00"
+    }
+  ]
+}
