@@ -1,0 +1,34 @@
+{
+  "manifest_version": "1.0",
+  "org": "bentoml",
+  "repo": "XGBoostDemo",
+  "versions": [
+    {
+      "commit": "27bf18a2229783c828701da9a68fac44492491d3",
+      "parsed_at": "2026-11-08T03:26:16.937130+00:00",
+      "filetree": "filetree/27bf18a2229783c828701da9a68fac44492491d3.nq.gz",
+      "blobs": [
+        "blob/a71513c926ed2b6d164b2c4e14abb44865ee12b4.nq.gz",
+        "blob/00ed085af980721d35d3d1677a0f25dbd1f7a11a.nq.gz",
+        "blob/b6a649dc5630b4e549a7a0c23ec1cae4c9666285.nq.gz",
+        "blob/48dd93ce8a877a551b18a32478b0199707854290.nq.gz",
+        "blob/fdc7566bde15b765346545d65b4ffda8629ca87d.nq.gz",
+        "blob/987d91954fa9a9b5b2f7f7785da027ff0838a7b7.nq.gz",
+        "blob/a9d02a8c0fb22afe0761594c0ed950232b207e3a.nq.gz",
+        "blob/c9a020ace96ba0e820f1724ef1e51528468edf92.nq.gz",
+        "blob/d25a2828cafae119f6e070a97e1019a73046d626.nq.gz",
+        "blob/07070297099f1672fad1b342dec2ffbfb5e322dc.nq.gz",
+        "blob/3c28ad6b4b84b5e8c6f54c23ad7c4d49e7a3a0c1.nq.gz",
+        "blob/a6d550a842657c93c6691a74c2a575bce56d9fce.nq.gz",
+        "blob/4a1535137e0af7c753dcababfdf2614eb9718fbc.nq.gz",
+        "blob/8a6a67135cde94b7bcdcbf3f0d459bc1105cff28.nq.gz",
+        "blob/273847b80d24502db04b8434d09905d7d3f14712.nq.gz",
+        "blob/9adf02e69103ddc1a3d55bee7118f638c8639991.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
